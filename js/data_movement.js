@@ -42,7 +42,7 @@ data_movement = [
         bullets: [
             "Puedes tumbarte al piso sin consumir nada de tu velocidad",
             "Para moverse mientras estes tumbado debes arrastrarte o usar magia de teletransporte",
-            "Tumbarse al piso agrega la condicion <i>Tumbado</i>.
+            "Tumbarse al piso agrega la condicion <i>Tumbado</i>."
         ]
     },
     {
