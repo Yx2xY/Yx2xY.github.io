@@ -1,16 +1,16 @@
 data_action = [
     {
-        title: "Attack",
+        title: "Atacar",
         icon: "crossed-swords",
-        subtitle: "Melee or ranged attack",
-        description: "Perform a melee or ranged attack with your weapon",
+        subtitle: "Cuerpo a cuerpo o a distancia",
+        description: "Realiza un ataque cuerpo a cuerpo o a distancia con tu arma",
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
-            "Certain features, such as the <i>Extra Attack</i> feature of the fighter, allow you to make more than one attack with this action. Each of these attacks is a separate roll and may target different creatures. You may move in between these attacks.",
-            "When you attack with a light melee weapon, you can use a bonus action to attack with your other hand (see the <i>Offhand attack</i> bonus action).",
-            "You may replace one of your melee attacks with a <i>Grapple</i> or a <i>Shove</i>.",
-            "Some conditions give advantage on the attack: attacks against blinded, paralyzed, petrified, restrained, stunned, or unconscious targets; melee attacks against prone targets; attacks by invisible or hidden attackers.",
-            "Some conditions give disadvantage on the attack: attacks against invisible or hidden targets; ranged attacks against prone targets; attacks by blinded, frightened, poisoned, or restrained attackers."
+            "Algunas caracteristicas, como la caracteristica <i>Ataque Adicional</i> del guerrero, te permiten realizar mas de un ataque con esta acción. Cada uno de estos ataques es una tirada separada y puede tener como objetivo diferentes criaturas. Puedes moverte entre estos ataques.",
+            "Cuando ataques con un arma cuerpo a cuerpo ligera, puedes usar una acción adicional para atacar con tu otra mano (ver la accion adicional <i>Ataque secundario</i>).",
+            "Puedes reemplazar uno de tus ataques cuerpo a cuerpo con un <i>Agarre</i> o un <i>Empujon</i>.",
+            "Algunas condiciones otorgan ventaja al ataque: ataques contra objetivos cegados, paralizados, petrificados, amarrados, aturdidos o inconscientes; melee attacks against prone targets; ataques por atacantes invisibles o escondidos.",
+            "Algunas condiciones dan desventaja al ataque: ataques contra objetivos invisibles o escondidos; ataques a distancia contra objetivos tumbados; ataques hechos por atacantes cegados, asustados, envenenados o amarrados."
         ]
     },
     {
