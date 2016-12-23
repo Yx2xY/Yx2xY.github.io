@@ -108,6 +108,7 @@ data_movement = [
         reference: "PHB, pg. 182.",
         description: "Moverse en terreno dificil cuesta 5ft adicionales por cada 5ft de movimiento",
         bullets: [
+            
         ]
     },
     {
