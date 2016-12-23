@@ -154,9 +154,9 @@ data_action = [
     {
         title: "Preparar",
         icon: "stopwatch",
-        subtitle: "Escoge un desencadenante para una accion",
-        description: "Escoge un desencadenante y",
-        "una respuesta en forma de reaccion",
+        subtitle: "Escoge un desencadenante para", 
+        "una accion",
+        description: "Escoge un desencadenante y una respuesta en forma de reaccion",
         reference: "PHB, pg. 193.",
         bullets: [
             "Primero decide que circunstancia percivible desencadenara tu reaccion.",
