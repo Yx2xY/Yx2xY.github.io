@@ -138,50 +138,50 @@ data_action = [
             "Si haces ruido (como gritar una advertencia o derribar un envase), das tu posicion.",
             "Cuando intentes esconderte realiza una tirada de Destreza (Sigilo) y anota el resultado. Hasta que seas descubierto o dejes de esconderte, el total de esa tirada es disputado por la tirada de Sabiduria (Percepcion) de cualquier criatura que busque activamente por señas de tu presencia.",
             "Una criatura te nota incluso si no esta buscando a menos que tu tirada de Sigilo sea mayor que su Percepcion Pasiva.",
-            "Fuera de combate tambien puedes usar una tirada de Destreza (Sigilo) para actos como escaparte de enemigos, ocultarse de guardias, escabullirse sin ser notado o sneaking up on someone without being seen or heard."
+            "Fuera de combate tambien puedes usar una tirada de Destreza (Sigilo) para actos como escaparte de enemigos, ocultarse de guardias, escabullirse sin ser notado o acercarsele a alguien sin ser viso u oido."
         ]
     },
     {
-        title: "Search",
+        title: "Buscar",
         icon: "magnifying-glass",
         subtitle: "",
-        description: "Devote your attention to finding something",
+        description: "Dedicas tu atencion a encontrar algo",
         reference: "PHB, pg. 193.",
         bullets: [
-            "Depending on the nature of your search, the DM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check."
+            "Dependiendo de la naturaleza de tu busqueda el DM podria hacerte realizar una tirada de Sabiduria (Percepcion) o una tirada de Inteligencia (Investigacion)."
         ]
     },
     {
-        title: "Ready",
+        title: "Preparar",
         icon: "stopwatch",
-        subtitle: "Choose trigger and action",
-        description: "Choose a trigger and a response reaction",
+        subtitle: "Escoge un desencadenante para una accion",
+        description: "Escoge un desencadenante y una respuesta en forma de reaccion",
         reference: "PHB, pg. 193.",
         bullets: [
-            "First, you decide what perceivable circumstance will trigger your reaction.",
-            "Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it.",
-            "When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger.",
-            "When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration"
+            "Primero decide que circunstancia percivible desencadenara tu reaccion.",
+            "Luego escoge la accion que tomaras en respuesta a ese desencadenante o escoge moverte el total de tu velocidad en respuesta.",
+            "Cuando el desencadenante ocurra puedes tomar tu reccion despues que finalice o ignorarlo.",
+            "Cuando preparas un hechizo lo lanzas de manera normal pero contienes su energia, la cual liberas con tu reaccion cuando el desencadenante ocurra. Para ser preparado, un hechizo debe tener un tiempo de lanzamiento de 1 accion y contener la magia del hechizo requiere concentracion."
         ]
     },
     {
-        title: "Use class feature",
+        title: "Usar una caracteristica de clase",
         icon: "embrassed-energy",
-        subtitle: "Some features use actions",
-        description: "Use a racial or class feature that uses an action",
-        reference: "See class page for more information.",
+        subtitle: "Algunas caracteristicas usan acciones",
+        description: "Usa una caracteristica racial o de clase que use una accion",
+        reference: "Ver la pagina de la clase para mas informacion.",
         bullets: [
 
         ]
     },
     {
-        title: "Improvise",
+        title: "Improvisar",
         icon: "juggler",
-        subtitle: "Any action not on this list",
-        description: "Perform any action you can imagine",
+        subtitle: "Cualquier accion que no este en esta lista",
+        description: "Realiza cualquier accion que puedas imaginar",
         reference: "PHB, pg. 193.",
         bullets: [
-            "When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure."
+            "Cuando describes una accion no detallada en ningun lugar en las reglas, el DM decide si la accion es posible y que tipo de tirada, de requerir alguna, debe ser realizada para determinar su exito o fracaso."
         ]
     }
 ]
