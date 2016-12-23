@@ -70,7 +70,6 @@ data_movement = [
         icon: "wingfoot",
         subtitle: "Costo: 5ft per 5ft",
         description: "Costo de movimiento: 5ft por cada 5ft saltados",
-        
         reference: "PHB, pg. 182.",
         bullets: [
             "Brincas en el aire un numero de pies igual a <b>3 + modificador de Fuerza</b> si te mueves al menos 10 feet a pie inmediatamente antes del salto.",
@@ -95,8 +94,9 @@ data_movement = [
     {
         title: "Improvisar",
         icon: "juggler",
-        subtitle: "Cualquier hazaña que no este en esta lista",
-        description: "Perform any movement or stunt you can imagine",
+        subtitle: "Cualquier hazaña que no este", 
+        "en esta lista",
+        description: "Realiza cualquier movimiento o hazaña que puedas imaginar",
         bullets: [
             "Cuando describes una accion no detallada en ningun lugar en las reglas, el DM decide si la accion es posible y que tipo de tirada, de requerir alguna, debe ser realizada para determinar su exito o fracaso."
         ]
@@ -111,7 +111,7 @@ data_movement = [
         ]
     },
     {
-        title: "Moverse en agarre",
+        title: "Moverse con agarre",
         icon: "grab",
         subtitle: "Modificador: velocidad reducida a la mitad",
         description: "Arrastrar o carga a la criatura cargada contigo",
