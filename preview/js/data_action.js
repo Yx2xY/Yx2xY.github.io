@@ -108,12 +108,12 @@ data_action = [
     {
         title: "Usar Objecto",
         icon: "snatch",
-        subtitle: "Interactuar, usar habilidades especiales",
+        subtitle: "Interactuar, habilidades especiales",
         description: "Interactua con un segundo objecto o usa una habilidad especial del objecto",
         reference: "PHB, pg. 193.",
         bullets: [
             "Puedes interactuar gratis con un objeto durante tu turno (como desnvainar tu arma o abrir una puerta). Si quieres interactuar con un segundo objeto usa esta accion.",
-            "Cunado un objeto requiere una accion para su uso tambien tomas esta accion."
+            "Cuando un objeto requiere una accion para su uso tambien tomas esta accion."
         ]
     },
     {
@@ -154,7 +154,8 @@ data_action = [
     {
         title: "Preparar",
         icon: "stopwatch",
-        subtitle: "Escoge un desencadenante para una accion",
+        subtitle: "Escoge un desencadenante", 
+        "para una accion",
         description: "Escoge un desencadenante y una respuesta en forma de reaccion",
         reference: "PHB, pg. 193.",
         bullets: [
