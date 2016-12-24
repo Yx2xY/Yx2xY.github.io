@@ -16,7 +16,7 @@ data_action = [
     {
         title: "Agarrar",
         icon: "grab",
-        subtitle: "Ataque cuerpo a cuerpo especial",
+        subtitle: "Agarras a un objetivo",
         description: "Intenta agarrar a una criatura o luchar con ella",
         reference: "PHB, pg. 195.",
         bullets: [
@@ -29,7 +29,7 @@ data_action = [
     {
         title: "Empujar",
         icon: "hand",
-        subtitle: "Ataque cuerpo a cuerpo especial",
+        subtitle: "Empujas a un objetivo",
         description: "Empuja a una criatura, ya sea para tumbarla o alejarla de ti",
         reference: "PHB, pg. 195.",
         bullets: [
@@ -65,7 +65,7 @@ data_action = [
     {
         title: "Eludir",
         icon: "journey",
-        subtitle: "Previene ataques de oportunidad",
+        subtitle: "Evita ataques de oportunidad",
         description: "Tu movimiento no provoca ataques de oportunidad por el resto del turno",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -85,7 +85,7 @@ data_action = [
     {
         title: "Escapar",
         icon: "manacles",
-        subtitle: "Escapar un agarre",
+        subtitle: "Escapas un agarre",
         description: "Escapar un agarre",
         reference: "PHB, pg. 195.",
         bullets: [
@@ -96,7 +96,7 @@ data_action = [
     {
         title: "Ayudar",
         icon: "telepathy",
-        subtitle: "Otorga ventaja a un aliado",
+        subtitle: "Otorgas ventaja a un aliado",
         description: "Otorga ventaja a un aliado en una tirada de habilidad o de ataque",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -108,7 +108,7 @@ data_action = [
     {
         title: "Usar Objecto",
         icon: "snatch",
-        subtitle: "Interactuar, habilidades especiales",
+        subtitle: "Interactuar, usos especiales",
         description: "Interactua con un segundo objecto o usa una habilidad especial del objecto",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -144,7 +144,7 @@ data_action = [
     {
         title: "Buscar",
         icon: "magnifying-glass",
-        subtitle: "",
+        subtitle: "Intentas encontrar algo",
         description: "Dedicas tu atencion a encontrar algo",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -154,7 +154,7 @@ data_action = [
     {
         title: "Preparar",
         icon: "stopwatch",
-        subtitle: "Escoge un desencadenante para una accion",
+        subtitle: "Preparas una accion",
         description: "Escoge un desencadenante y una respuesta en forma de reaccion",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -167,7 +167,7 @@ data_action = [
     {
         title: "Usar una caracteristica de clase",
         icon: "embrassed-energy",
-        subtitle: "Algunas caracteristicas usan acciones",
+        subtitle: "Que requieran 1 accion",
         description: "Usa una caracteristica racial o de clase que use una accion",
         reference: "Ver la pagina de la clase para mas informacion.",
         bullets: [
