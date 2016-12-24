@@ -1,6 +1,6 @@
 data_bonusaction = [
     {
-        title: "Ataque seundario",
+        title: "Ataque secundario",
         icon: "crossed-swords",
         subtitle: "Junto a la accion Atacar",
         description: "Ataca con tu mano secundaria",
