@@ -15,7 +15,7 @@ data_bonusaction = [
     {
         title: "Lanzar un hechizo",
         icon: "magic-swirl",
-        subtitle: "Tiempo de lanzamiento de 1 accion adicional",
+        subtitle: "Que requiera de 1 accion adicional",
         description: "Lanza un hechizo con un tiempo de lanzamiento de 1 accion adicional",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -25,7 +25,7 @@ data_bonusaction = [
     {
         title: "Usar caracteristica de clase",
         icon: "embrassed-energy",
-        subtitle: "Algunas caracteristicas usan acciones adicionales",
+        subtitle: "Que requiera de 1 accion adicional",
         description: "Usa una caracteristica racial o de clase que use una accion adicional",
         reference: "See class page for more information.",
         bullets: [
