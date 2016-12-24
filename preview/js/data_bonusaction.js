@@ -1,33 +1,32 @@
 data_bonusaction = [
     {
-        title: "Offhand Attack",
+        title: "Ataque seundario",
         icon: "crossed-swords",
-        subtitle: "Use with the Attack action",
-        description: "Attack with your off hand",
+        subtitle: "Junto a la accion Atacar",
+        description: "Ataca con tu mano secundaria",
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
-            "Only usable if you take the <i>Attack</i> action and attack with a light melee weapon that you're holding in one hand.",
-            "Perform a single attack with a different light melee weapon that you're holding in the other hand.",
-            "You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.",
-            "If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it."
+            "Solo usable si tomas la accion <i>Atacar</i> y atacas con un arma cuerpo a cuerpo ligera que empuñes en una mano.",
+            "Realiza un solo ataque con un arma cuerpo a cuerpo ligera diferente que estes empuñando en tu otra mano.",
+            "No agregas tu modificador de habilidad al daño del ataque adicional a menos que el modificador sea negativo.",
+            "Si cualquiera de las armas tiene la propiedad lanzable puedes lanzar el arma en lugar de realizar un ataque cuerpo a cuerpo con ella."
         ]
     },
     {
-        title: "Cast a spell",
+        title: "Lanzar un hechizo",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 bonus action",
-        description: "Cast a spell with a casting time of 1 bonus action",
+        subtitle: "Tiempo de lanzamiento de 1 accion adicional",
+        description: "Lanza un hechizo con un tiempo de lanzamiento de 1 accion adicional",
         reference: "PHB, pg. 192.",
         bullets: [
-            "You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
-            "For further details, see the <i>Cast a spell</i> action."
+            "No puedes lanzar un hechizo con tu accion y un hechizo diferente con tu accion adicional en el mismo turno, excepto si la accion es usada para lanzar un truco..",
         ]
     },
     {
-        title: "Use class feature",
+        title: "Usar caracteristica de clase",
         icon: "embrassed-energy",
-        subtitle: "Some features use bonus actions",
-        description: "Use a racial or class feature that uses a bonus action",
+        subtitle: "Algunas caracteristicas usan acciones adicionales",
+        description: "Usa una caracteristica racial o de clase que use una accion adicional",
         reference: "See class page for more information.",
         bullets: [
 
