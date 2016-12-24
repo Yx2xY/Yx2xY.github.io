@@ -94,7 +94,7 @@ data_movement = [
     {
         title: "Improvisar",
         icon: "juggler",
-        subtitle: "Cualquier hazaña que no este en esta lista",
+        subtitle: "Cualquier hazaña que puedas imaginar",
         description: "Realiza cualquier movimiento o hazaña que puedas imaginar",
         bullets: [
             "Cuando describes una accion no detallada en ningun lugar en las reglas, el DM decide si la accion es posible y que tipo de tirada, de requerir alguna, debe ser realizada para determinar su exito o fracaso."
@@ -103,7 +103,7 @@ data_movement = [
     {
         title: "Terreno dificil",
         icon: "stone-pile",
-        subtitle: "Modificador de costo: +5ft per 5ft",
+        subtitle: "Costo: +5ft per 5ft",
         reference: "PHB, pg. 182.",
         description: "Moverse en terreno dificil cuesta 5ft adicionales por cada 5ft de movimiento",
         bullets: [
