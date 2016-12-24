@@ -1,4 +1,4 @@
-data_ambiente_obscurance = [
+data_environment_obscurance = [
     {
         title: "Ligeramente oscurecido",
         icon: "bleeding-eye",
