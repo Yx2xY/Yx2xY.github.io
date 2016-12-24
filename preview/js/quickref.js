@@ -42,9 +42,7 @@ function show_modal(data, color, type) {
 
     var bullets_html = bullets.map(function (item) { return "<p class=\"fonstsize\">" + item + "</p>"; }).join("\n<hr>\n");
     $("#modal-bullets").html(bullets_html);
-    
-+    var backdropHeight = (window.innerHeight > document.getElementById("modal-container").clientHeight + 32) ? "100%" : document.getElementById("modal-container").clientHeight + 32 + "px";
-+    document.getElementById("modal-backdrop").style.height = backdropHeight;
+
 }
 
 function hide_modal() {
