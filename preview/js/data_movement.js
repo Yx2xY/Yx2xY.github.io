@@ -94,8 +94,7 @@ data_movement = [
     {
         title: "Improvisar",
         icon: "juggler",
-        subtitle: "Cualquier hazaña que no este",
-        "en esta lista",
+        subtitle: "Cualquier hazaña que no este en esta lista",
         description: "Realiza cualquier movimiento o hazaña que puedas imaginar",
         bullets: [
             "Cuando describes una accion no detallada en ningun lugar en las reglas, el DM decide si la accion es posible y que tipo de tirada, de requerir alguna, debe ser realizada para determinar su exito o fracaso."
