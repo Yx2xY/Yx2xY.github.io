@@ -94,7 +94,7 @@ data_movement = [
     {
         title: "Improvisar",
         icon: "juggler",
-        subtitle: "Cualquier hazaña que puedas imaginar",
+        subtitle: "Cualquier no especificado",
         description: "Realiza cualquier movimiento o hazaña que puedas imaginar",
         bullets: [
             "Cuando describes una accion no detallada en ningun lugar en las reglas, el DM decide si la accion es posible y que tipo de tirada, de requerir alguna, debe ser realizada para determinar su exito o fracaso."
@@ -113,7 +113,7 @@ data_movement = [
     {
         title: "Moverse con agarre",
         icon: "grab",
-        subtitle: "Modificador: velocidad reducida a la mitad",
+        subtitle: "Velocidad reducida a la mitad",
         description: "Arrastrar o carga a la criatura cargada contigo",
         reference: "PHB, pg. 195.",
         bullets: [
