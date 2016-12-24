@@ -42,7 +42,7 @@ data_action = [
     {
         title: "Lanzar un hechizo",
         icon: "magic-swirl",
-        subtitle: "Tiempo de lanzamiento de 1 accion",
+        subtitle: "Que requiera de 1 accion",
         description: "Lanzas un hechizo con un tiempo de lanzamiento de 1 accion",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -130,8 +130,8 @@ data_action = [
     {
         title: "Esconderse",
         icon: "hood",
-        subtitle: "",
-        description: "Intentas esconderte",
+        subtitle: "Intentas esconderte",
+        description: "Intentas esconderte usando tus alrededores",
         reference: "PHB, pg. 192.",
         bullets: [
             "No puedes esconderte de una criatura que puede verte. Debes tener cobertura total, estar en un area altamente oscurecida, ser invisible o bloquear la vision del enemigo de alguna manera.",
@@ -167,7 +167,7 @@ data_action = [
     {
         title: "Usar una caracteristica de clase",
         icon: "embrassed-energy",
-        subtitle: "Que requieran 1 accion",
+        subtitle: "Que requiera de 1 accion",
         description: "Usa una caracteristica racial o de clase que use una accion",
         reference: "Ver la pagina de la clase para mas informacion.",
         bullets: [
@@ -177,7 +177,7 @@ data_action = [
     {
         title: "Improvisar",
         icon: "juggler",
-        subtitle: "Cualquier accion que no este en esta lista",
+        subtitle: "Cualquiera que no este especificada",
         description: "Realiza cualquier accion que puedas imaginar",
         reference: "PHB, pg. 193.",
         bullets: [
